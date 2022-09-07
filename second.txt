@@ -1,4 +1,6 @@
-here is my second file.
+Here is a line of text on top.
+
+Here is my second file.
 It has some different text.
 Don't you like my lines of text.
 
